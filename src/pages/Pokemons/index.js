@@ -17,6 +17,7 @@ const Pokemons = () => {
           <div key={pokemon.url}>
             <h1>{pokemon.name}</h1>
             <h1>{pokemon.url}</h1>
+            <h1>{pokemon.url}</h1>
           </div>
         ))}
       </div>
